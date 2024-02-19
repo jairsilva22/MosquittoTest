@@ -1,5 +1,5 @@
 // aqui ponemos la direccion url y el puerto en este caso como se usar el web socket se usa el puerto 9001   ip local ws://192.168.100.61:9001 ip del servidor ws://74.208.24.130:9001
-var brokerUrl = 'wss://app.samprasoee.com:8881'; 
+var brokerUrl = 'wss://app.samprasoee.com:1883'; 
 var username= "calisis";
 var  password= "calisis";
 var topic = 'jkhkjhkjh';
